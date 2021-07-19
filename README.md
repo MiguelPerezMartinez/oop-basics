@@ -12,7 +12,7 @@ In this project you will learn the basics of OOP using mobile devices as a refer
 - [Tools](#tools)
 - [OOP Introduction](#oop-introduction)
 - [Project files](#project-files)
-- [Q & A](#q-&-a)
+- [Questions](#questions)
 
 ## Getting Started
 
