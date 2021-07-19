@@ -12,6 +12,7 @@ In this project you will learn the basics of OOP using mobile devices as a refer
 - [Tools](#tools)
 - [OOP Introduction](#oop-introduction)
 - [Project files](#project-files)
+- [Q & A](#q&a)
 
 ## Getting Started
 
@@ -134,3 +135,7 @@ Namespaces are qualifiers that solve two different problems:
 2. They allow the same name to be used for more than one class
 
 In this file you will learn how to create and use namespaces.
+
+## Q & A
+
+asdf
