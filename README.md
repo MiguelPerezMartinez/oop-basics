@@ -136,6 +136,6 @@ Namespaces are qualifiers that solve two different problems:
 
 In this file you will learn how to create and use namespaces.
 
-## Q & A
+## Questions
 
 asdf
